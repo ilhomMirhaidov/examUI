@@ -1,7 +1,7 @@
 # examUI
 Firebase va Local database bilan ishlangan dastur.
 barcha malumotlar local database saqlanadi va ushbu dasturni offline ishlatsa ham boladi. 
-Ishlatilgan Pacage /n
+Ishlatilgan Pacage
 cupertino_icons: ^1.0.2
   firebase_core: ^1.4.0
   firebase_auth:
