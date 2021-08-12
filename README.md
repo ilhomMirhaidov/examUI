@@ -1,15 +1,15 @@
 # examUI
-Firebase va Local database bilan ishlangan dastur.
-barcha malumotlar local database saqlanadi va ushbu dasturni offline ishlatsa ham boladi. 
-Ishlatilgan Pacage  cupertino_icons: ^1.0.2
-  firebase_core: ^1.4.0
-  firebase_auth:
-  google_sign_in:
-  flutter_staggered_grid_view: ^0.4.0
-  sqflite:
-  http:
-  synchronized:
-  path:
+Firebase va Local database bilan ishlangan dastur.\n
+barcha malumotlar local database saqlanadi va ushbu dasturni offline ishlatsa ham boladi. \n
+Ishlatilgan Pacage  cupertino_icons: ^1.0.2\n
+  firebase_core: ^1.4.0\n
+  firebase_auth:\n
+  google_sign_in:\n
+  flutter_staggered_grid_view: ^0.4.0\n
+  sqflite:\n
+  http:\n
+  synchronized:\n
+  path:\n
   
 <a href="https://ibb.co/S5my3HY"><img src="https://i.ibb.co/NtNCyfD/Screenshot-20210811-210003.jpg" alt="Screenshot-20210811-210003" border="0" width =100></a>
 <a href="https://ibb.co/1JF8CQ0"><img src="https://i.ibb.co/gFkz09r/Screenshot-20210811-210047.jpg" alt="Screenshot-20210811-210047" border="0" width =100></a>
